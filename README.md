@@ -1,4 +1,4 @@
-# SolarDataPreProcessing
+# Solar Data PreProcessing
 
 SolarDataPreProcessing is a Python script that preprocesses solar data from a text file, converts it to a CSV file, and creates a pandas DataFrame. It uses the tkinter library to prompt the user for input paths through a graphical user interface.
 
@@ -48,7 +48,6 @@ SolarDataPreProcessing is a Python script that preprocesses solar data from a te
 - tkinter
 - numpy
 - pandas
-- os
 
 ## Contributing
 
